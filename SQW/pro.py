@@ -1,3 +1,3 @@
-print("hello world!");
-print("hello world!");
-print("hello world!");
+letters=['x','y','z']
+letters.insert(1,'w')
+print(letters[2])
